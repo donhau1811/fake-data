@@ -10,6 +10,28 @@
             "android": 0,
             "membership": 0,
             "customer": 0
+        },
+        {
+            "day": "08/08",
+            "reach": 1490,
+            "click": 3,
+            "scan": 0,
+            "ios": 0,
+            "total": 0,
+            "android": 0,
+            "membership": 1,
+            "customer": 0
+        },
+        {
+            "day": "09/08",
+            "reach": 0,
+            "click": 0,
+            "scan": 0,
+            "ios": 0,
+            "total": 0,
+            "android": 0,
+            "membership": 1,
+            "customer": 0
         }
     ]
 }
