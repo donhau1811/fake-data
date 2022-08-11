@@ -1,1 +1,52 @@
-{"data":[{"day":"07/08","reach":3384,"engagement":87,"click":23,"scan":0,"ios":0,"total":0,"android":0,"membership":0,"customer":0},{"day":"08/08","reach":1490,"engagement":100,"click":3,"scan":0,"ios":0,"total":0,"android":0,"membership":1,"customer":0},{"day":"09/08","reach":1206,"engagement":176,"click":100,"scan":0,"ios":0,"total":0,"android":0,"membership":1,"customer":0}]}
+{
+    "data": [
+        {
+            "day": "07/08",
+            "reach": 3384,
+            "engagement": 87,
+            "click": 23,
+            "scan": 0,
+            "ios": 0,
+            "total": 0,
+            "android": 0,
+            "membership": 0,
+            "customer": 0
+        },
+        {
+            "day": "08/08",
+            "reach": 1490,
+            "engagement": 100,
+            "click": 3,
+            "scan": 0,
+            "ios": 2,
+            "total": 2,
+            "android": 0,
+            "membership": 1,
+            "customer": 0
+        },
+        {
+            "day": "09/08",
+            "reach": 1206,
+            "engagement": 176,
+            "click": 3,
+            "scan": 0,
+            "ios": 1,
+            "total": 1,
+            "android": 0,
+            "membership": 2,
+            "customer": 0
+        },
+        {
+            "day": "10/08",
+            "reach": 3376,
+            "engagement": 112,
+            "click": 8,
+            "scan": 1,
+            "ios": 1,
+            "total": 1,
+            "android": 0,
+            "membership": 1,
+            "customer": 0
+        }
+    ]
+}
