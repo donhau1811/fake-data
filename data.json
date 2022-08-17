@@ -54,10 +54,70 @@
             "engagement": 482,
             "click": 2,
             "scan": 0,
-            "ios": 1,
-            "total": 1,
+            "ios": 39,
+            "total": 39,
             "android": 0,
-            "membership": 1,
+            "membership": 3,
+            "customer": 1
+        },
+        {
+            "day": "12/08",
+            "reach": 0,
+            "engagement": 0,
+            "click": 0,
+            "scan": 5,
+            "ios": 2,
+            "total": 7,
+            "android": 5,
+            "membership": 2,
+            "customer": 0
+        },
+        {
+            "day": "13/08",
+            "reach": 0,
+            "engagement": 0,
+            "click": 0,
+            "scan": 2,
+            "ios": 4,
+            "total": 4,
+            "android": 0,
+            "membership": 3,
+            "customer": 1
+        },
+        {
+            "day": "14/08",
+            "reach": 14216,
+            "engagement": 669,
+            "click": 53,
+            "scan": 0,
+            "ios": 0,
+            "total": 0,
+            "android": 0,
+            "membership": 3,
+            "customer": 0
+        },
+        {
+            "day": "15/08",
+            "reach": 4779,
+            "engagement": 203,
+            "click": 14,
+            "scan": 0,
+            "ios": 0,
+            "total": 0,
+            "android": 0,
+            "membership": 3,
+            "customer": 0
+        },
+        {
+            "day": "16/08",
+            "reach": 5760,
+            "engagement": 268,
+            "click": 17,
+            "scan": 0,
+            "ios": 0,
+            "total": 0,
+            "android": 0,
+            "membership": 0,
             "customer": 0
         }
     ]
